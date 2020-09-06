@@ -2,7 +2,7 @@ Hi there 👋
 
 My name is Sunny and I'm an aspiring quant researcher or data scientist!
    
-I have a dual degree - a BA in mathematics (concentration in applied math), and BS in biochemistry. And I also have a MS in [Computational and Mathematical Engineering](https://exploredegrees.stanford.edu/schoolofengineering/instituteforcomputationalandmathematicalengineering/#masterstext) with a concentration in mathematical and computational finance, at Stanford University. Currently, I'm based in Mumbai, India.         
+I have a dual degree - a BA in mathematics (concentration in applied math), and BS in biochemistry, from the University of Illinois at Urbana-Champaign. And I also have a MS in [Computational and Mathematical Engineering](https://exploredegrees.stanford.edu/schoolofengineering/instituteforcomputationalandmathematicalengineering/#masterstext) with a concentration in mathematical and computational finance, at Stanford University. Currently, I'm based in Mumbai, India.         
 
 You can find more about my background in my [resume](https://drive.google.com/file/d/1zQAaKPHdBo2zBxaNIM75HpPsurjUyMPh/view?usp=sharing)!
 <!--
