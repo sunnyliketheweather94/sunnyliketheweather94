@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 ### About Me:
 - 🔭&nbsp; I’m currently working on my Quantitative Finance skills :grin:
 - 😄 &nbsp;Pronouns: he / him / his
-- ⚡ &nbsp; Fun fact: I'm profoundly <b> deaf </b> in both my ear; I use cochlear implants to hear!
+- ⚡ &nbsp;Fun fact: I'm profoundly <b> deaf </b> in both my ear; I use cochlear implants to hear!
 - 💬 &nbsp; Please feel free to ask me about anything - I am happy to help :smile:
 - 📬 &nbsp; How to reach me: [Let's get in touch!][linkedin]
 
