@@ -35,7 +35,7 @@ You can find more about my academic and professional background in my [resume](h
 <br>
 
 <div align="left">
-<h3 align="left">Show some love by starring some of my repositories that were helpful to you! Thank You <br><br>
+<h3 align="left">Show some love by starring some of my repositories that were helpful to you :) thank you!! <br><br>
 With regards, <br>Sunny Shah </h3>
 
 <!--[website]: -->
