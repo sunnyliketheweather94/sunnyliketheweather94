@@ -106,11 +106,11 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-<div align="center">
-<h3 align="center">Show some ❤️&nbsp; by starring some of my repositories that were helpful to you!</h3>
+<div align="left">
+<h3 align="left">Show some ❤️&nbsp; by starring some of my repositories that were helpful to you!</h3>
 <!-- </div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" /> -->
 
-#### Thank You 🙏🏼
+# Thank You 🙏🏼
 
 ⭐️  From [Sunny Shah](https://github.com/sunnymshah95)
 
