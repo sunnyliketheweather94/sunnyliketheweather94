@@ -108,7 +108,7 @@ Here are some ideas to get you started:
 
 <div align="left">
 <h3 align="left">Show some ❤️&nbsp; by starring some of my repositories that were helpful to you! Thank You 🙏🏼 <br>
-  ⭐️&nbsp;  With regards from Sunny Shah </h3>
+With regards, <br>Sunny Shah </h3>
 
 <!--[website]: -->
 [instagram]: https://instagram.com/sunnyliketheweather94
