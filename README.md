@@ -3,11 +3,11 @@
   <h1 align="center"><b>Hello there, I'm Sunny 👋</b></h1>
 </p>
 
-My name is Sunny and I'm an aspiring quant researcher or data scientist!
+I'm an aspiring quant researcher or data scientist!
    
 I have a dual degree - a BA in mathematics (concentration in applied math), and BS in biochemistry, from the University of Illinois at Urbana-Champaign. And I also have a MS in [Computational and Mathematical Engineering](https://exploredegrees.stanford.edu/schoolofengineering/instituteforcomputationalandmathematicalengineering/#masterstext) with a concentration in mathematical and computational finance, at Stanford University. Currently, I'm based in Mumbai, India.         
 
-You can find more about my background in my [resume](https://drive.google.com/file/d/1zQAaKPHdBo2zBxaNIM75HpPsurjUyMPh/view?usp=sharing)!
+You can find more about my academic and professional background in my [resume](https://drive.google.com/file/d/1zQAaKPHdBo2zBxaNIM75HpPsurjUyMPh/view?usp=sharing)!
 <!--
 **sunnymshah95/sunnymshah95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,24 +23,24 @@ Here are some ideas to get you started:
 
 
 
-<p align="center">
+<!-- <p align="center">
     <img align="center" alt="visitors" src="https://gpvc.arturio.dev/Sumanth-Talluri" />
-</p>
+</p> -->
 
 <p align="center">
 <br>
-<a href="https://www.facebook.com/smarty.saisumanth"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
-<a href="https://instagram.com/the.cs.geek?igshid=1mamru7aa53b2"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/sai-sumanth-talluri-3b7811141"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:tallurisaisumanth77@gmail.com?subject=Hola%20Sumanth"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href="https://www.facebook.com/sunnymshah95"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
+<a href="https://instagram.com/sunnyliketheweather94"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/sunnymshah95"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:sunnymshah95@gmail.com?subject=Hola%20Sumanth"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
 </p>
 
 <br>
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-
-### I am a MS candidate at Stanford University 
+         
+### About Me:
 - 🔭 I’m currently working on my Quantitative Finance skills :grin:
 - 😄 Pronouns: he / him / his
 - ⚡ Fun fact: I'm profoundly <b> deaf </b> in both my ear; I use cochlear implants to hear!
@@ -107,7 +107,7 @@ Here are some ideas to get you started:
 <br>
 
 <div align="center">
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of my repositories that were helpful to you!</h3>
+<h3 align="center">Show some ❤️&nbsp; by starring some of my repositories that were helpful to you!</h3>
 <!-- </div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" /> -->
 
 #### Thank You 🙏🏼
