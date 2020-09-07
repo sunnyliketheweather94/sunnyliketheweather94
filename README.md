@@ -107,7 +107,7 @@ Here are some ideas to get you started:
 <br>
 
 <div align="left">
-<h3 align="left">Show some ❤️&nbsp; by starring some of my repositories that were helpful to you! Thank You 🙏🏼 <br><br><br><br><br>
+<h3 align="left">Show some ❤️&nbsp; by starring some of my repositories that were helpful to you! Thank You 🙏🏼 <br><br>
 With regards, <br>Sunny Shah </h3>
 
 <!--[website]: -->
