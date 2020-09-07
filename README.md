@@ -106,9 +106,9 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-<div align="left">
+<!-- <div align="left"> -->
 <h3 align="left">Show some ❤️&nbsp; by starring some of my repositories that were helpful to you! Thank You 🙏🏼</h3>
-⭐️&nbsp;  From [Sunny Shah](https://github.com/sunnymshah95)
+⭐️&nbsp;  With regards from [Sunny Shah](https://github.com/sunnymshah95)
 
 <!--[website]: -->
 [instagram]: https://instagram.com/sunnyliketheweather94
