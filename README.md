@@ -41,11 +41,11 @@ Here are some ideas to get you started:
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
          
 ### About Me:
-- 🔭 I’m currently working on my Quantitative Finance skills :grin:
-- 😄 Pronouns: he / him / his
-- ⚡ Fun fact: I'm profoundly <b> deaf </b> in both my ear; I use cochlear implants to hear!
-- 💬 Please feel free to ask me about anything - I am happy to help :smile:
-- 📬 How to reach me: [Let's get in touch!][linkedin]
+- 🔭&nbsp; I’m currently working on my Quantitative Finance skills :grin:
+- 😄 &nbsp;Pronouns: he / him / his
+- ⚡ &nbsp; Fun fact: I'm profoundly <b> deaf </b> in both my ear; I use cochlear implants to hear!
+- 💬 &nbsp; Please feel free to ask me about anything - I am happy to help :smile:
+- 📬 &nbsp; How to reach me: [Let's get in touch!][linkedin]
 
 <br>
 
@@ -107,12 +107,9 @@ Here are some ideas to get you started:
 <br>
 
 <div align="left">
-<h3 align="left">Show some ❤️&nbsp; by starring some of my repositories that were helpful to you!</h3>
-<!-- </div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" /> -->
-
-# Thank You 🙏🏼
-
-⭐️  From [Sunny Shah](https://github.com/sunnymshah95)
+<h3 align="left">Show some ❤️&nbsp; by starring some of my repositories that were helpful to you!</h3> Thank You 🙏🏼
+<br>
+⭐️&nbsp;  From [Sunny Shah](https://github.com/sunnymshah95)
 
 <!--[website]: -->
 [instagram]: https://instagram.com/sunnyliketheweather94
