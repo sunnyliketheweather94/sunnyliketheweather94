@@ -5,7 +5,7 @@
 
 I'm an aspiring quant researcher or data scientist!
    
-I have a dual degree - a BA in mathematics (concentration in applied math), and BS in biochemistry, from the University of Illinois at Urbana-Champaign. And I also have a MS in [Computational and Mathematical Engineering](https://exploredegrees.stanford.edu/schoolofengineering/instituteforcomputationalandmathematicalengineering/#masterstext) with a concentration in mathematical and computational finance, at Stanford University. Currently, I'm based in Mumbai, India.         
+I have a dual degree - a BA in mathematics (concentration in applied math), and BS in biochemistry, from the University of Illinois at Urbana-Champaign. And I also have a MS in [Computational and Mathematical Engineering](https://exploredegrees.stanford.edu/schoolofengineering/instituteforcomputationalandmathematicalengineering/#masterstext) with a concentration in mathematical and computational finance, at Stanford University. Currently, I'm based in Stanford, CA.         
 
 You can find more about my academic and professional background in my [resume](https://drive.google.com/file/d/1ovXexEHpsSAQMHtolOo0kcca2fqLK0vi/view?usp=sharing)!
 
