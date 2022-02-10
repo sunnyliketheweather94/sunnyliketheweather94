@@ -5,7 +5,7 @@
 
 I'm an aspiring quant researcher or data scientist!
    
-I have a dual degree - a BA in mathematics (concentration in applied math), and BS in biochemistry, from the University of Illinois at Urbana-Champaign. And I also have a MS in [Computational and Mathematical Engineering](https://exploredegrees.stanford.edu/schoolofengineering/instituteforcomputationalandmathematicalengineering/#masterstext) with a concentration in mathematical and computational finance, at Stanford University. Currently, I'm based in Stanford, CA.         
+I have a dual degree - a BA in mathematics (concentration in applied math), and BS in biochemistry, from the University of Illinois at Urbana-Champaign. And I'm working towards a MS in [Computational and Mathematical Engineering](https://exploredegrees.stanford.edu/schoolofengineering/instituteforcomputationalandmathematicalengineering/#masterstext) with a concentration in mathematical and computational finance, at Stanford University (expected graduation is June '22). Currently, I'm based in Stanford, CA.         
 
 You can find more about my academic and professional background in my [resume](https://drive.google.com/file/d/1ovXexEHpsSAQMHtolOo0kcca2fqLK0vi/view?usp=sharing)!
 
@@ -23,7 +23,6 @@ You can find more about my academic and professional background in my [resume](h
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
          
 ### About Me:
-- 🔭&nbsp; I’m currently working as a freelancing subject matter expert (mathematics) :grin:
 - 😄 &nbsp;Pronouns: he / him / his
 - ⚡ &nbsp;Fun fact: I'm profoundly <b> deaf </b> in both my ear; I use cochlear implants to hear!
 - 💬 &nbsp; Please feel free to ask me about anything - I am happy to help :smile:
@@ -39,5 +38,4 @@ You can find more about my academic and professional background in my [resume](h
 With regards, <br>Sunny Shah </h3>
 
 <!--[website]: -->
-[instagram]: https://instagram.com/sunnyliketheweather94
 [linkedin]: https://www.linkedin.com/in/sunnymshah95
