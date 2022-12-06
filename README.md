@@ -3,9 +3,9 @@
   <h1 align="center"><b>Hello there, I'm Sunny 👋</b></h1>
 </p>
 
-I'm an aspiring quant researcher or data scientist!
+I'm a data scientist!
    
-I have a dual degree - a BA in mathematics (concentration in applied math), and BS in biochemistry, from the University of Illinois at Urbana-Champaign. And I'm working towards a MS in [Computational and Mathematical Engineering](https://exploredegrees.stanford.edu/schoolofengineering/instituteforcomputationalandmathematicalengineering/#masterstext) with a concentration in mathematical and computational finance, at Stanford University (expected graduation is June '22). Currently, I'm based in Stanford, CA.         
+I have a dual degree - a BA in mathematics (concentration in applied math), and BS in biochemistry, from the University of Illinois at Urbana-Champaign. And I also have an MS in [Computational and Mathematical Engineering](https://exploredegrees.stanford.edu/schoolofengineering/instituteforcomputationalandmathematicalengineering/#masterstext) with a concentration in mathematical and computational finance, at Stanford University. Currently, I'm based in San Diego, CA.         
 
 
 <p align="center">
@@ -19,7 +19,7 @@ I have a dual degree - a BA in mathematics (concentration in applied math), and 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
          
 ### About Me:
-- 😄 &nbsp;Pronouns: he / him / his
+- 😄 &nbsp;Pronouns: he / they
 - ⚡ &nbsp;Fun fact: I'm profoundly <b> deaf </b> in both my ear; I use cochlear implants to hear!
 - 💬 &nbsp; Please feel free to ask me about anything - I am happy to help :smile:
 - 📬 &nbsp; How to reach me: [Let's get in touch!][linkedin]
