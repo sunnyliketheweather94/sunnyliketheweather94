@@ -1,12 +1,17 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 <p>
-  <h1 align="center"><b>Hello there, I'm Sunny 👋</b></h1>
+  <h1 align="center"><b>Hello there, I'm Sunny (like the weather, LOL) 👋</b></h1>
 </p>
 
+### Introduction
 I'm a full-stack data scientist with 3 years of experience in statistics, machine learning, data science/analytics/engineering!
-   
-I have a dual degree - a BA in mathematics (concentration in applied math), and BS in biochemistry, from the University of Illinois at Urbana-Champaign. In addition, I also have an MS in [Computational and Mathematical Engineering](https://exploredegrees.stanford.edu/schoolofengineering/instituteforcomputationalandmathematicalengineering/#masterstext) with a concentration in mathematical and computational finance, at Stanford University. Currently, I'm based in San Diego, CA. You can read more about my professional background by clicking on the LinkedIn link below.        
 
+I have:
+- a MS in Computational and Mathematical Engineering from Stanford University (June 2022)
+- a BA in Applied Mathematics from University of Illinois at Urbana-Champaign (May 2018)
+- a BS in Biochemistry, with a minor in Chemistry from University of Illinois at Urbana-Champaign (May 2018)
+
+I'm currently based in San Diego, CA, and you can learn more about my professional background by clicking on the LinkedIn link below.   
 
 <p align="center">
 <br>
@@ -15,23 +20,23 @@ I have a dual degree - a BA in mathematics (concentration in applied math), and 
 </p>
 
 <br>
+
+### Technologies, tools, and algorithms (not exhaustive)
+- **Languages:** Python (NumPy, Pandas, Scitkit Learn, TensorFlow, PyTorch, StatsModels, PySpark, HuggingFace)
+- **Machine Learning:** regression, classification, clustering, deep learning, LLMs
+- **Statistics:** parameter estimation, hypothesis testing, Bayesian statistics, Markov chains
+- **Algorithms:** linear regression, PCA, kNN, transformers, neural networks, logistic regression, random forests
+- **Technologies:** Linux, SQL, Github, Docker, Jupyter, Conda, AWS Redshift, AWS S3, AWS SageMaker
+
+
 <br>
 <br> 
-<p align="left">My skill sets consist of the following (not exhaustive):
-  <ul>
-    <li><b>Languages:</b> Python (NumPy, Pandas, Scitkit Learn, TensorFlow, PyTorch, StatsModels, PySpark, HuggingFace) </li> 
-    <li><b>Machine Learning:</b> regression, classification, clustering, deep learning, LLMs</li>
-    <li><b>Statistics:</b> parameter estimation, hypothesis testing, Bayesian statistics, Markov chains</li>
-    <li><b>Algorithms:</b> linear regression, PCA, kNN, transformers, neural networks, logistic regression, random forests</li>
-    <li><b>Technologies:</b> Linux, SQL, Github, Docker, Jupyter, Conda, AWS Redshift, AWS S3, AWS SageMaker</p></li>
-  </ul>
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
          
-### About Me:
+### About me
 - 😄 &nbsp;Pronouns: he / they
-- ⚡ &nbsp;Fun fact: I'm profoundly <b> deaf </b> in both my ear; I use cochlear implants to hear!
-- 💬 &nbsp; Please feel free to ask me about anything - I am happy to help :smile:
+- ⚡ &nbsp;Fun fact: I use cochlear implants to hear!
 - 📬 &nbsp; How to reach me: [Let's get in touch!][linkedin]
 
 <!--[website]: -->
