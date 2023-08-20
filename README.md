@@ -15,6 +15,16 @@ I have a dual degree - a BA in mathematics (concentration in applied math), and 
 </p>
 
 <br>
+<br>
+<br> 
+<p align="left">My skill sets consist of the following (not exhaustive):
+  <ul>
+    <li><b>Languages:</b> Python (NumPy, Pandas, Scitkit Learn, TensorFlow, PyTorch, StatsModels, PySpark, HuggingFace) </li> 
+    <li><b>Machine Learning:</b> regression, classification, clustering, deep learning, LLMs</li>
+    <li><b>Statistics:</b> parameter estimation, hypothesis testing, Bayesian statistics, Markov chains</li>
+    <li><b>Algorithms:</b> linear regression, PCA, kNN, transformers, neural networks, logistic regression, random forests</li>
+    <li><b>Technologies:</b> Linux, SQL, Github, Docker, Jupyter, Conda, AWS Redshift, AWS S3, AWS SageMaker</p></li>
+  </ul>
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
          
