@@ -4,29 +4,23 @@
 </p>
 
 ### Introduction
-I'm a full-stack data scientist with 3 years of experience in statistics, machine learning, data science/analytics/engineering!
+I'm a Senior Data Scientist with experience leading machine learning and analytics initiatives end-to-end, from framing ambiguous business problems through deploying scalable solutions that produce measurable results. At Oak Street Health, now part of CVS Health, I built and launched production ML systems in Azure Databricks and Azure ML — including a diagnostic prediction framework across 100+ disease categories that generated over $50M in revenue, and a churn reduction pipeline that retained more than 4,000 patients annually. I also optimized core ML and data workflows, reducing model training time from 14 hours to 3 hours, which allowed faster iteration and deployment cycles.
 
-I have:
-- a MS in Computational and Mathematical Engineering from Stanford University (June 2022)
-- a BA in Applied Mathematics from University of Illinois at Urbana-Champaign (May 2018)
-- a BS in Biochemistry, with a minor in Chemistry from University of Illinois at Urbana-Champaign (May 2018)
+As for my academic background, I have earned:
+- a MS in Computational and Mathematical Engineering from Stanford University
+- a BA in Applied Mathematics from University of Illinois at Urbana-Champaign
+- a BS in Biochemistry, with a minor in Chemistry from University of Illinois at Urbana-Champaign
 
-I'm currently based in San Diego, CA, and you can learn more about my professional background by clicking on the LinkedIn link below.   
 
-<p align="center">
-<br>
-<a href="https://www.linkedin.com/in/sunnymshah95"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:sunnymshah16+github@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-</p>
 
 <br>
 
 ### Technologies, tools, and algorithms (not exhaustive)
-- **Languages:** Python (NumPy, Pandas, Scitkit Learn, TensorFlow, PyTorch, StatsModels, PySpark, HuggingFace)
+- **Languages:** Python (NumPy, Pandas, Scitkit Learn, TensorFlow, PyTorch, StatsModels, PySpark, XGBoost, MLFlow, PyTest), SQL, C++
 - **Machine Learning:** regression, classification, clustering, deep learning, LLMs
-- **Statistics:** parameter estimation, hypothesis testing, Bayesian statistics, Markov chains
+- **Statistics:** parameter estimation, hypothesis testing, Bayesian statistics, Markov chains, nonparametric statistics
 - **Algorithms:** linear regression, PCA, kNN, transformers, neural networks, logistic regression, random forests
-- **Technologies:** Linux, SQL, Github, Docker, Jupyter, Conda, AWS Redshift, AWS S3, AWS SageMaker
+- **Technologies:** Linux, SQL, Github, Docker, Jupyter, Conda, Azure (ML Studio, SQL Server, Databricks, Functions, Web Apps), AWS (Redshift, S3, SageMaker), CI/CD
 
 
 <br>
@@ -37,7 +31,15 @@ I'm currently based in San Diego, CA, and you can learn more about my profession
 ### About me
 - 😄 &nbsp;Pronouns: he / they
 - ⚡ &nbsp;Fun fact: I use cochlear implants to hear!
-- 📬 &nbsp; How to reach me: [Let's get in touch!][linkedin]
+- 📍&nbsp; Chicago, IL
+- Connect with me on LinkedIn or reach out to me via e-mail:
+
+
+<p align="center">
+<br>
+<a href="https://www.linkedin.com/in/sunnymshah95"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:sunnymshah16+github@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+</p>
 
 <!--[website]: -->
 [linkedin]: https://www.linkedin.com/in/sunnymshah95
